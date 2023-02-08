@@ -25,13 +25,13 @@ Update At：2023年2月8日 18点14分
 
 Download：https://raw.fastgit.org/Hovthen/index/main/file/tvbox/index.json
 
-### tv(.json)
+### tv(.txt)
 
 Note：直播订阅源 Line**⑵**
 
 Update At：2023年2月8日 18点14分
 
-Download：https://raw.fastgit.org/Hovthen/index/main/file/tvbox/tv.json
+Download：https://raw.fastgit.org/Hovthen/index/main/file/tvbox/tv.txt
 
 ### epg(.xml)
 
