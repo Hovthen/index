@@ -1,0 +1,88 @@
+{
+  "createBy": "http://liujiacai.net/gooreplacer/",
+  "version": "3.13.0",
+  "createAt": "2023/2/8 22:21:16",
+  "redirect-rules": [
+    {
+      "src": "www.ghpym.com",
+      "kind": "wildcard",
+      "dst": "ghpym.com",
+      "enable": true
+    },
+    {
+      "src": "www.ghxi.com",
+      "kind": "wildcard",
+      "dst": "ghxi.com",
+      "enable": false
+    },
+    {
+      "src": "https://link\\.zhihu\\.com/\\?target=http(s)?%3A\\/\\/(.*)",
+      "kind": "regexp",
+      "dst": "http$1://$2",
+      "enable": true
+    },
+    {
+      "src": "ajax.googleapis.com",
+      "kind": "wildcard",
+      "dst": "ajax.proxy.ustclug.org",
+      "enable": true
+    },
+    {
+      "src": "https://www.google.com/recaptcha",
+      "kind": "wildcard",
+      "dst": "https://www.recaptcha.net/recaptcha",
+      "enable": true
+    },
+    {
+      "src": "cdn.jsdelivr.net",
+      "kind": "wildcard",
+      "dst": "fastly.jsdelivr.net",
+      "enable": false
+    },
+    {
+      "src": "cdn.jsdelivr.com",
+      "kind": "wildcard",
+      "dst": "fastly.jsdelivr.com",
+      "enable": true
+    },
+    {
+      "src": "raw.githubusercontent.com",
+      "kind": "wildcard",
+      "dst": "raw.fastgit.org",
+      "enable": true
+    },
+    {
+      "src": "ghproxy.com",
+      "kind": "wildcard",
+      "dst": "raw.fastgit.org",
+      "enable": true
+    },
+    {
+      "src": "codeload.github.com",
+      "kind": "wildcard",
+      "dst": "raw.huaxe.cn/github@codeload",
+      "enable": true
+    },
+    {
+      "src": "book.huaxe.cn",
+      "kind": "wildcard",
+      "dst": "lib-x6bv4xf6x2ygbk2h3l5sk2wp.carbon.pm",
+      "enable": true
+    },
+    {
+      "src": "raw.iqiq.io",
+      "kind": "wildcard",
+      "dst": "raw.fastgit.org",
+      "enable": true
+    }
+  ],
+  "cancel-rules": [
+    {
+      "src": "1cs9b98.cn",
+      "kind": "wildcard",
+      "enable": true
+    }
+  ],
+  "request-headers": [],
+  "response-headers": []
+}
