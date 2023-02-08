@@ -1,5 +1,8 @@
 {
-	"/":"https://lab.hovthen.com/",
+	"index":"https://lab.hovthen.com/",
 	"mail":"https://mail.qq.com/",
-	"github@raw":"https://raw.kgithub.com/"
+	"zlib":"https://singlelogin.me/",
+	"zlib@me":"https://lib-x6bv4xf6x2ygbk2h3l5sk2wp.carbon.pm/",
+	"github@raw":"https://raw.kgithub.com/",
+	"github":"https://github.com/"
 }
