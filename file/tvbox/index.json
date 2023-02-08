@@ -168,7 +168,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://raw.kgithub.com/FongMi/CatVodSpider/main/json/bili.json"
     },
     {
       "key": "AList",
@@ -176,7 +176,7 @@
       "type": "3",
       "api": "csp_AList",
       "searchable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "ext": "https://raw.kgithub.com/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
       "key": "Cokemv",
@@ -216,7 +216,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
+      "ext": "https://raw.kgithub.com/Pandora2277/box/main/token.txt"
     },
     {
       "key": "Upso",
@@ -226,7 +226,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
+      "ext": "https://raw.kgithub.com/Pandora2277/box/main/token.txt"
     },
     {
       "key": "Lib",
@@ -266,7 +266,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
+      "ext": "https://raw.kgithub.com/Pandora2277/box/main/token.txt"
     },
     {
       "key": "YiSo",
@@ -276,7 +276,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
+      "ext": "https://raw.kgithub.com/Pandora2277/box/main/token.txt"
     },
     {
       "key": "AliPS",
@@ -286,7 +286,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
+      "ext": "https://raw.kgithub.com/Pandora2277/box/main/token.txt"
     },
     {
       "key": "Zxzj",
@@ -306,7 +306,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
+      "ext": "https://raw.kgithub.com/Pandora2277/box/main/token.txt"
     }
   ],
   "lives": [
@@ -564,6 +564,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://picsum.photos/1280/720/?blur=5",
+  "wallpaper": "http://hovthen.com/img_bing",
   "spider": "img+http://hutool.ml/jar;md5;270fe5543b8cde61c2e7ff7e823a34c9"
 }
