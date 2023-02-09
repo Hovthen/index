@@ -316,7 +316,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"
+            "proxy://do=live&type=txt&ext=https://raw.fastgit.org/Hovthen/index/main/file/tvbox/tv.txt"
           ]
         }
       ]

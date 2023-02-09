@@ -15,7 +15,7 @@ From：[TVBox_takagen99_20230208-0730.apk](https://github.com/o0HalfLife0o/TVBox
 
 Update At：2023年2月8日 17点41分
 
-Download：https://raw.fastgit.org/Hovthen/index/main/file/tvbox/TVBox.apk
+Download：https://fastly.jsdelivr.net/gh/Hovthen/index@main/file/tvbox/TVBox.apk
 
 ### index(.json)
 
@@ -29,7 +29,7 @@ Download：https://raw.fastgit.org/Hovthen/index/main/file/tvbox/index.json
 
 Note：直播订阅源 Line**⑵**
 
-Update At：2023年2月8日 18点14分
+Update At：2023年2月9日 14点00分
 
 Download：https://raw.fastgit.org/Hovthen/index/main/file/tvbox/tv.txt
 
@@ -40,3 +40,12 @@ Note：直播EPG(电子节目菜单)订阅源 Lin**⑶**
 - http://epg.51zmt.top:8000/e.xml
 - https://epg.112114.xyz/pp.xml
 
+### nsfw(.json)
+
+> WARMING：不适合公开场合观看使用
+
+Note：通用数据订阅源 Line**⑴**
+
+Update At：2023-02-09 14:03
+
+Download：https://raw.fastgit.org/Hovthen/index/main/file/tvbox/nsfw.json
